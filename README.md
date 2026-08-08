@@ -29,22 +29,6 @@
   &nbsp;About Me
 </h2>
 
-```typescript
-const abraham: Developer = {
-  name: "Abraham Nigatu",
-  role: "Full Stack Developer",
-  location: "🌍 Building from anywhere",
-  focus: [
-    "Clean, responsive web applications",
-    "Cross-platform mobile solutions",
-    "Scalable cloud infrastructure",
-    "DevOps & automation pipelines"
-  ],
-  currentlyLearning: "Advanced Kubernetes orchestration & microservices",
-  funFact: "I turn ☕ into <code /> and ship it to production 🚀"
-};
-```
-
 <br/>
 
 <!-- Tech Stack Section -->
@@ -124,33 +108,7 @@ const abraham: Developer = {
 
 ---
 
-<!-- Architecture Diagram -->
-<h2>🏗️ How I Build</h2>
 
-```mermaid
-graph LR
-    A[🎨 Design in Figma] --> B[💻 Frontend<br/>React • TypeScript • Flutter]
-    B --> C[⚡ API Layer<br/>Django REST • Node.js • Express]
-    C --> D[🗄️ Database<br/>PostgreSQL • SQLite • MongoDB]
-    C --> E[🔐 Auth<br/>JWT • OAuth]
-    B --> F[🐳 Containerize<br/>Docker]
-    C --> F
-    F --> G[☸️ Orchestrate<br/>Kubernetes]
-    G --> H[🚀 Deploy<br/>CI/CD • Cloud]
-    
-    style A fill:#f24e1e,stroke:#f24e1e,color:#fff
-    style B fill:#61dafb,stroke:#61dafb,color:#000
-    style C fill:#092e20,stroke:#092e20,color:#fff
-    style D fill:#316192,stroke:#316192,color:#fff
-    style E fill:#000,stroke:#d63aff,color:#fff
-    style F fill:#2496ed,stroke:#2496ed,color:#fff
-    style G fill:#326ce5,stroke:#326ce5,color:#fff
-    style H fill:#46e3b7,stroke:#46e3b7,color:#000
-```
-
-<br/>
-
----
 
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Analytics</h2>
@@ -180,19 +138,7 @@ graph LR
 
 ---
 
-<!-- GitHub Trophies -->
-<h2>🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <a href="https://github.com/abrahamopm">
-    <img src="https://github-profile-trophy.vercel.app/?username=abrahamopm&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-<!-- What I'm Working On -->
-<h2>🔭 What I'm Up To</h2>
 
 <table>
   <tr>
@@ -224,62 +170,6 @@ graph LR
     </td>
   </tr>
 </table>
-
----
-
-<!-- DevOps Pipeline -->
-<h2>⚡ My DevOps Pipeline</h2>
-
-```yaml
-# abraham-ci-cd.yml
-name: 🚀 Build → Test → Deploy
-
-on:
-  push:
-    branches: [main]
-
-jobs:
-  pipeline:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 📥 Checkout Code
-        uses: actions/checkout@v4
-
-      - name: 🧪 Run Tests
-        run: |
-          python manage.py test      # Django
-          npm run test               # React/Node
-
-      - name: 🐳 Build Docker Image
-        run: docker build -t app:latest .
-
-      - name: ☸️ Deploy to Kubernetes
-        run: kubectl apply -f k8s/deployment.yaml
-
-      - name: ✅ Health Check
-        run: curl -f https://app.example.com/health
-```
-
----
-
-<!-- Connect Section -->
-<h2>🤝 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://github.com/abrahamopm">
-    <img src="https://img.shields.io/badge/GitHub-abrahamopm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abraham-software-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Abraham_Nigatu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:abrahamnkw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
 
 <!-- Snake Animation -->
 <p align="center">
