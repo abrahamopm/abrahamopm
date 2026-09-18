@@ -1,193 +1,119 @@
-<!-- Header Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Abraham%20Nigatu&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future%20of%20Web%20%26%20Mobile&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<div align="center">
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/abrahamopm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Django+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Flutter+%E2%80%A2+TypeScript;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+%E2%80%A2+Cloud+Infra;Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+DevOps" alt="Typing SVG" />
-  </a>
-</p>
+# Abraham Nigatu Kebede
+### Software Engineer & Mobile Systems Specialist
+**Addis Ababa, Ethiopia**
 
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abrahamopm&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/abrahamopm?tab=followers">
-    <img src="https://img.shields.io/github/followers/abrahamopm?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github&logoColor=58a6ff" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/abrahamopm?tab=repositories">
-    <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-0d1117?style=for-the-badge&labelColor=161b22" alt="Open Source Love" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-software-dev)
+[![Email](https://img.shields.io/badge/Email-abrahamnkw%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahamnkw@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abrahamopm-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abrahamopm)
+[![B.Sc. Software Engineering](https://img.shields.io/badge/AAU-B.Sc._Software_Engineering-003366?style=flat-square)](https://www.aau.edu.et)
+[![Cisco Certified](https://img.shields.io/badge/Cisco-CCNA_Certified-049fd9?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com)
+
+</div>
 
 ---
 
-<!-- About Me Section -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  &nbsp;About Me
-</h2>
+### 👨‍💻 Engineering Profile
 
-<br/>
+I am a Software Engineer focused on building resilient cross-platform mobile applications and scalable full-stack web platforms. My core specialty is **Flutter & Dart** mobile architecture with clean state management, coupled with solid backend experience across **Node.js/Express, TypeScript, and Django**.
 
-<!-- Tech Stack Section -->
-<h2>🛠️ Tech Arsenal</h2>
+With a strong foundation in computer science and enterprise networking (**Cisco CCNA Certified**), I approach software engineering end-to-end — from data modeling and robust API contracts to production containerization and Linux server operations.
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-</p>
-
-> Flexbox • Grid • Responsive Design • Mobile-First • Design-to-Code
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-</details>
-
-<details open>
-<summary><b>🚀 Infrastructure & DevOps</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</p>
-
-> CI/CD Pipelines • Container Orchestration • Cloud Deployment • Infrastructure as Code
-</details>
-
-<details open>
-<summary><b>🧰 Tools & Workflow</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</p>
-</details>
-
-<br/>
+- 🔭 **Currently Building**: Production Flutter mobile solutions and high-throughput web backends.
+- 🏛️ **Academic Background**: B.Sc. in Software Engineering, School of Information Technology and Engineering, Addis Ababa University.
+- ⚡ **Engineering Principles**: Modular separation of concerns, zero-jank UI (60/120fps), type safety, and reproducible deployment.
 
 ---
 
-
-
-<!-- GitHub Stats Section -->
-<h2>📊 GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/abrahamopm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrahamopm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/abrahamopm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamopm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abrahamopm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamopm&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/abrahamopm">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrahamopm&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1a1b27&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-
+### 🚀 Featured Systems & Flagship Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Web Development</h3>
-      <p>
-        Building full-stack applications with <b>React + TypeScript</b> frontends powered by <b>Django</b> and <b>Node.js</b> backends, secured with JWT authentication and deployed via CI/CD pipelines.
-      </p>
+      <h4>📱 <a href="https://github.com/abrahamopm/afalagi_mobile_app_project">Afalagi — Real Estate CRM Mobile System</a></h4>
+      <p>Specialized mobile management notebook for real estate brokers to track client pipelines, prospective buyers/renters, and property listings in real time.</p>
+      <ul>
+        <li><b>Stack:</b> Flutter, Dart, BLoC State Management, REST API</li>
+        <li><b>Backend:</b> Node.js, Express, TypeScript</li>
+        <li><b>Key Features:</b> Offline-first local persistence, responsive material design, structured lead tracking.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Mobile Development</h3>
-      <p>
-        Crafting cross-platform mobile experiences with <b>Flutter & Dart</b>, focusing on beautiful UI, smooth animations, and native performance.
-      </p>
+      <h4>🌐 <a href="https://github.com/abrahamopm/archline-logistics">Archline Logistics & Invoicing Portal</a></h4>
+      <p>End-to-end commercial operations platform and invoicing engine built for freight and logistics operations.</p>
+      <ul>
+        <li><b>Stack:</b> React, TypeScript, Node.js, Linux / Nginx</li>
+        <li><b>Key Features:</b> Automated billing pipeline, operational tracking, production server setup.</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐳 DevOps & Infrastructure</h3>
-      <p>
-        Containerizing applications with <b>Docker</b>, orchestrating with <b>Kubernetes</b>, and automating deployments with <b>GitHub Actions</b> CI/CD pipelines.
-      </p>
+      <h4>🏛️ <a href="https://github.com/abrahamopm/flutter_dio_bloc">Flutter Architecture Lab (BLoC & Dio)</a></h4>
+      <p>Production reference implementation demonstrating enterprise Flutter patterns, reactive event-driven architecture, network interceptors, and robust exception propagation.</p>
+      <ul>
+        <li><b>Stack:</b> Flutter, Dart, BLoC pattern, Dio HTTP client</li>
+        <li><b>Focus:</b> Clean Architecture, dependency injection, testability.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Design → Code</h3>
-      <p>
-        Converting pixel-perfect <b>Figma</b> designs into clean, responsive, and accessible code with modern CSS techniques.
-      </p>
+      <h4>🤖 <a href="https://github.com/abrahamopm/melhiq-bot">Melhiq Automation Service</a></h4>
+      <p>Telegram bot infrastructure and webhook orchestrator designed for automated community interactions and service delivery.</p>
+      <ul>
+        <li><b>Stack:</b> Node.js, Telegram Bot API, Async Webhooks</li>
+        <li><b>Experience:</b> Built and maintained digital presence tools during EngenderHealth internship.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<!-- Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrahamopm/abrahamopm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrahamopm/abrahamopm/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/abrahamopm/abrahamopm/output/github-snake-dark.svg" />
-  </picture>
-</p>
+---
 
-<!-- Random Dev Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+### 🛠️ Technical Competency Matrix
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
+```
+┌──────────────────────────────┬────────────────────────────────────────────────────────┐
+│ Domain                       │ Technologies & Tooling                                 │
+├──────────────────────────────┼────────────────────────────────────────────────────────┤
+│ Mobile Engineering           │ Flutter • Dart • BLoC • Riverpod • Provider • Dio      │
+│                              │ SQLite • Hive • Firebase • Material 3 • iOS & Android  │
+├──────────────────────────────┼────────────────────────────────────────────────────────┤
+│ Frontend Web                 │ React • TypeScript • JavaScript (ES6+) • Tailwind CSS  │
+│                              │ Next.js • Responsive UI/UX • Modern Design Systems     │
+├──────────────────────────────┼────────────────────────────────────────────────────────┤
+│ Backend & APIs               │ Node.js • Express • Django • Python • RESTful APIs     │
+│                              │ JWT Authentication • Microservice Fundamentals        │
+├──────────────────────────────┼────────────────────────────────────────────────────────┤
+│ Databases & Storage          │ PostgreSQL • MongoDB • SQLite                          │
+├──────────────────────────────┼────────────────────────────────────────────────────────┤
+│ DevOps & Infrastructure      │ Linux (Ubuntu/Debian) • Docker • Nginx • cPanel         │
+│                              │ GitHub Actions CI/CD • AWS Fundamentals • Git           │
+├──────────────────────────────┼────────────────────────────────────────────────────────┤
+│ Networking & Security        │ CCNA Certified: Routing, Switching & Network Security  │
+└──────────────────────────────┴────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/abrahamopm">abrahamopm</a> — Building clean code, one commit at a time.</i>
-</p>
+---
+
+### 📜 Certifications & Education
+
+- **B.Sc. in Software Engineering** — Addis Ababa University *(School of Information Technology and Engineering, 2023 – 2028)*
+- **Cisco Certified CCNA**:
+  - *CCNA 1:* Introduction to Networks
+  - *CCNA 2:* Switching, Routing, and Wireless Essentials
+  - *CCNA 3:* Enterprise Networking, Security, and Automation
+
+---
+
+<div align="center">
+
+```
+"Premature optimization is the root of all evil — but so is sloppy architecture."
+```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrahamopm&theme=tokyonight&hide_border=true&background=00000000)](https://github.com/abrahamopm)
+
+<sub>Crafted with engineering discipline • Addis Ababa, Ethiopia</sub>
+
+</div>
